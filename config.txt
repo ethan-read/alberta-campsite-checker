@@ -1,0 +1,17 @@
+
+
+
+# Below is an example
+facility_name: Lac Des Arcs
+arrival_month: July
+arrival_day: 11
+departure_month: July
+departure_day: 14
+
+
+# The three settings below are optional, only change them if you want a
+# specific type of camp site
+access_type: Pick One
+service_type: Pick One
+site_size: Pick One
+
